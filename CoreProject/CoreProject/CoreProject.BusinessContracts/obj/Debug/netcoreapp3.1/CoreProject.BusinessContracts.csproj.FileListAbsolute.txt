@@ -1,0 +1,8 @@
+D:\Demo\ConsoleDemo\CoreProject\CoreProject\CoreProject.BusinessContracts\bin\Debug\netcoreapp3.1\CoreProject.BusinessContracts.deps.json
+D:\Demo\ConsoleDemo\CoreProject\CoreProject\CoreProject.BusinessContracts\bin\Debug\netcoreapp3.1\CoreProject.BusinessContracts.dll
+D:\Demo\ConsoleDemo\CoreProject\CoreProject\CoreProject.BusinessContracts\bin\Debug\netcoreapp3.1\CoreProject.BusinessContracts.pdb
+D:\Demo\ConsoleDemo\CoreProject\CoreProject\CoreProject.BusinessContracts\obj\Debug\netcoreapp3.1\CoreProject.BusinessContracts.csprojAssemblyReference.cache
+D:\Demo\ConsoleDemo\CoreProject\CoreProject\CoreProject.BusinessContracts\obj\Debug\netcoreapp3.1\CoreProject.BusinessContracts.AssemblyInfoInputs.cache
+D:\Demo\ConsoleDemo\CoreProject\CoreProject\CoreProject.BusinessContracts\obj\Debug\netcoreapp3.1\CoreProject.BusinessContracts.AssemblyInfo.cs
+D:\Demo\ConsoleDemo\CoreProject\CoreProject\CoreProject.BusinessContracts\obj\Debug\netcoreapp3.1\CoreProject.BusinessContracts.dll
+D:\Demo\ConsoleDemo\CoreProject\CoreProject\CoreProject.BusinessContracts\obj\Debug\netcoreapp3.1\CoreProject.BusinessContracts.pdb

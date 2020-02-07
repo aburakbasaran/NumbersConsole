@@ -1,0 +1,10 @@
+D:\Demo\ConsoleDemo\CoreProject\CoreProject\CoreProject.Entity\bin\Debug\netcoreapp3.1\CoreProject.Entity.deps.json
+D:\Demo\ConsoleDemo\CoreProject\CoreProject\CoreProject.Entity\bin\Debug\netcoreapp3.1\CoreProject.Entity.dll
+D:\Demo\ConsoleDemo\CoreProject\CoreProject\CoreProject.Entity\obj\Debug\netcoreapp3.1\CoreProject.Entity.AssemblyInfoInputs.cache
+D:\Demo\ConsoleDemo\CoreProject\CoreProject\CoreProject.Entity\obj\Debug\netcoreapp3.1\CoreProject.Entity.AssemblyInfo.cs
+D:\Demo\ConsoleDemo\CoreProject\CoreProject\CoreProject.Entity\bin\Debug\netcoreapp3.1\CoreProject.Entity.pdb
+D:\Demo\ConsoleDemo\CoreProject\CoreProject\CoreProject.Entity\obj\Debug\netcoreapp3.1\CoreProject.Entity.csprojAssemblyReference.cache
+D:\Demo\ConsoleDemo\CoreProject\CoreProject\CoreProject.Entity\obj\Debug\netcoreapp3.1\CoreProject.Entity.dll
+D:\Demo\ConsoleDemo\CoreProject\CoreProject\CoreProject.Entity\obj\Debug\netcoreapp3.1\CoreProject.Entity.pdb
+D:\Demo\ConsoleDemo\CoreProject\CoreProject\CoreProject.Entity\bin\Debug\netcoreapp3.1\CoreProject.Entity.runtimeconfig.json
+D:\Demo\ConsoleDemo\CoreProject\CoreProject\CoreProject.Entity\bin\Debug\netcoreapp3.1\CoreProject.Entity.runtimeconfig.dev.json

@@ -1,0 +1,104 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CoreProject.DataLayerContracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/CoreProject.DataLayerContracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CoreProject.DataLayerContracts.dll": {}
+        }
+      },
+      "CoreProject.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/CoreProject.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CoreProject.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoreProject.DataLayerContracts/1.0.0": {
+      "type": "project",
+      "path": "../CoreProject.DataLayerContracts/CoreProject.DataLayerContracts.csproj",
+      "msbuildProject": "../CoreProject.DataLayerContracts/CoreProject.DataLayerContracts.csproj"
+    },
+    "CoreProject.Entity/1.0.0": {
+      "type": "project",
+      "path": "../CoreProject.Entity/CoreProject.Entity.csproj",
+      "msbuildProject": "../CoreProject.Entity/CoreProject.Entity.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "CoreProject.DataLayerContracts >= 1.0.0",
+      "CoreProject.Entity >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Serkan\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Demo\\ConsoleDemo\\NumbersConsole\\CoreProject\\CoreProject\\CoreProject.DataLayer\\CoreProject.DataLayer.csproj",
+      "projectName": "CoreProject.DataLayer",
+      "projectPath": "D:\\Demo\\ConsoleDemo\\NumbersConsole\\CoreProject\\CoreProject\\CoreProject.DataLayer\\CoreProject.DataLayer.csproj",
+      "packagesPath": "C:\\Users\\Serkan\\.nuget\\packages\\",
+      "outputPath": "D:\\Demo\\ConsoleDemo\\NumbersConsole\\CoreProject\\CoreProject\\CoreProject.DataLayer\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Serkan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.telerik.com/nuget": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "D:\\Demo\\ConsoleDemo\\NumbersConsole\\CoreProject\\CoreProject\\CoreProject.DataLayerContracts\\CoreProject.DataLayerContracts.csproj": {
+              "projectPath": "D:\\Demo\\ConsoleDemo\\NumbersConsole\\CoreProject\\CoreProject\\CoreProject.DataLayerContracts\\CoreProject.DataLayerContracts.csproj"
+            },
+            "D:\\Demo\\ConsoleDemo\\NumbersConsole\\CoreProject\\CoreProject\\CoreProject.Entity\\CoreProject.Entity.csproj": {
+              "projectPath": "D:\\Demo\\ConsoleDemo\\NumbersConsole\\CoreProject\\CoreProject\\CoreProject.Entity\\CoreProject.Entity.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CoreProject.Business/1.0.0": {
+        "dependencies": {
+          "CoreProject.BusinessContracts": "1.0.0",
+          "CoreProject.DataLayerContracts": "1.0.0"
+        },
+        "runtime": {
+          "CoreProject.Business.dll": {}
+        }
+      },
+      "CoreProject.BusinessContracts/1.0.0": {
+        "runtime": {
+          "CoreProject.BusinessContracts.dll": {}
+        }
+      },
+      "CoreProject.DataLayerContracts/1.0.0": {
+        "runtime": {
+          "CoreProject.DataLayerContracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoreProject.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CoreProject.BusinessContracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CoreProject.DataLayerContracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

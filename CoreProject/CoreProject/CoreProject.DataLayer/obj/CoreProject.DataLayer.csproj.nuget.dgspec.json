@@ -1,0 +1,205 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Demo\\ConsoleDemo\\CoreProject\\CoreProject\\CoreProject.DataLayer\\CoreProject.DataLayer.csproj": {}
+  },
+  "projects": {
+    "D:\\Demo\\ConsoleDemo\\CoreProject\\CoreProject\\CoreProject.DataLayerContracts\\CoreProject.DataLayerContracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Demo\\ConsoleDemo\\CoreProject\\CoreProject\\CoreProject.DataLayerContracts\\CoreProject.DataLayerContracts.csproj",
+        "projectName": "CoreProject.DataLayerContracts",
+        "projectPath": "D:\\Demo\\ConsoleDemo\\CoreProject\\CoreProject\\CoreProject.DataLayerContracts\\CoreProject.DataLayerContracts.csproj",
+        "packagesPath": "C:\\Users\\Serkan\\.nuget\\packages\\",
+        "outputPath": "D:\\Demo\\ConsoleDemo\\CoreProject\\CoreProject\\CoreProject.DataLayerContracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Serkan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Demo\\ConsoleDemo\\CoreProject\\CoreProject\\CoreProject.DataLayer\\CoreProject.DataLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Demo\\ConsoleDemo\\CoreProject\\CoreProject\\CoreProject.DataLayer\\CoreProject.DataLayer.csproj",
+        "projectName": "CoreProject.DataLayer",
+        "projectPath": "D:\\Demo\\ConsoleDemo\\CoreProject\\CoreProject\\CoreProject.DataLayer\\CoreProject.DataLayer.csproj",
+        "packagesPath": "C:\\Users\\Serkan\\.nuget\\packages\\",
+        "outputPath": "D:\\Demo\\ConsoleDemo\\CoreProject\\CoreProject\\CoreProject.DataLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Serkan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Demo\\ConsoleDemo\\CoreProject\\CoreProject\\CoreProject.DataLayerContracts\\CoreProject.DataLayerContracts.csproj": {
+                "projectPath": "D:\\Demo\\ConsoleDemo\\CoreProject\\CoreProject\\CoreProject.DataLayerContracts\\CoreProject.DataLayerContracts.csproj"
+              },
+              "D:\\Demo\\ConsoleDemo\\CoreProject\\CoreProject\\CoreProject.Entity\\CoreProject.Entity.csproj": {
+                "projectPath": "D:\\Demo\\ConsoleDemo\\CoreProject\\CoreProject\\CoreProject.Entity\\CoreProject.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Demo\\ConsoleDemo\\CoreProject\\CoreProject\\CoreProject.Entity\\CoreProject.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Demo\\ConsoleDemo\\CoreProject\\CoreProject\\CoreProject.Entity\\CoreProject.Entity.csproj",
+        "projectName": "CoreProject.Entity",
+        "projectPath": "D:\\Demo\\ConsoleDemo\\CoreProject\\CoreProject\\CoreProject.Entity\\CoreProject.Entity.csproj",
+        "packagesPath": "C:\\Users\\Serkan\\.nuget\\packages\\",
+        "outputPath": "D:\\Demo\\ConsoleDemo\\CoreProject\\CoreProject\\CoreProject.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Serkan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

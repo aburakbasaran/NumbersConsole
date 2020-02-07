@@ -1,0 +1,8 @@
+D:\Demo\ConsoleDemo\CoreProject\CoreProject\CoreProject.DataLayerContracts\bin\Debug\netcoreapp3.1\CoreProject.DataLayerContracts.deps.json
+D:\Demo\ConsoleDemo\CoreProject\CoreProject\CoreProject.DataLayerContracts\bin\Debug\netcoreapp3.1\CoreProject.DataLayerContracts.dll
+D:\Demo\ConsoleDemo\CoreProject\CoreProject\CoreProject.DataLayerContracts\bin\Debug\netcoreapp3.1\CoreProject.DataLayerContracts.pdb
+D:\Demo\ConsoleDemo\CoreProject\CoreProject\CoreProject.DataLayerContracts\obj\Debug\netcoreapp3.1\CoreProject.DataLayerContracts.csprojAssemblyReference.cache
+D:\Demo\ConsoleDemo\CoreProject\CoreProject\CoreProject.DataLayerContracts\obj\Debug\netcoreapp3.1\CoreProject.DataLayerContracts.AssemblyInfoInputs.cache
+D:\Demo\ConsoleDemo\CoreProject\CoreProject\CoreProject.DataLayerContracts\obj\Debug\netcoreapp3.1\CoreProject.DataLayerContracts.AssemblyInfo.cs
+D:\Demo\ConsoleDemo\CoreProject\CoreProject\CoreProject.DataLayerContracts\obj\Debug\netcoreapp3.1\CoreProject.DataLayerContracts.dll
+D:\Demo\ConsoleDemo\CoreProject\CoreProject\CoreProject.DataLayerContracts\obj\Debug\netcoreapp3.1\CoreProject.DataLayerContracts.pdb
